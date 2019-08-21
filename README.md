@@ -1,6 +1,6 @@
 # Projeto Aws3
 
-![aws.png](Amazon)
+![aws](aws.png)
 
 Repositorio de testes
 
