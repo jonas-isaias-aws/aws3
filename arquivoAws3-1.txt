@@ -1,2 +1,5 @@
 planeta1
 planeta2
+planeta4
+planeta5
+planeta6
