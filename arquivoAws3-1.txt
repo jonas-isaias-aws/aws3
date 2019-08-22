@@ -5,3 +5,6 @@ planeta5
 planeta6
 planeta10
 planeta11
+planeta4
+planeta5
+planeta6
