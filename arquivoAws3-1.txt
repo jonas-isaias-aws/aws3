@@ -8,3 +8,6 @@ planeta11
 planeta4
 planeta5
 planeta6
+
+Rey
+Finn
